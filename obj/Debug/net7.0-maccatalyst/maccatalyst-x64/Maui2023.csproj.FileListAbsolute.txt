@@ -264,3 +264,4 @@
 /Users/sindrevr/Projects/Maui2023/Maui2023/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Google.Apis.Sheets.v4.dll
 /Users/sindrevr/Projects/Maui2023/Maui2023/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/Newtonsoft.Json.dll
 /Users/sindrevr/Projects/Maui2023/Maui2023/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/CommunityToolkit.Mvvm.dll
+/Users/sindrevr/Projects/Maui2023/Maui2023/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/resizetizer/r/Resources/dhnc.jpeg

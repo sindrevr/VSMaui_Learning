@@ -4,19 +4,25 @@
              x:Class="Maui2023.MainPage">
 
     <ScrollView>
-        <HorizontalStackLayout HorizontalOptions="StartAndExpand">
+        <HorizontalStackLayout Padding="10"  Spacing="10" HorizontalOptions="Center" VerticalOptions="Center">
+         
+            <Frame WidthRequest="250" HeightRequest="250" BorderColor="White">
+                <Image Source="dhnc.jpeg" />
 
-            <Label Text="Funksjon 1" Padding="10" FontSize="Subtitle"></Label>
+            </Frame>
+              <VerticalStackLayout Spacing="10" Padding="10" WidthRequest="200" HeightRequest="250">
+                  <Label Text="DHNC IP" FontSize="Subtitle"
 
-              <VerticalStackLayout Spacing="10" Padding="10">
+                         ></Label>
+                  <Entry></Entry>
                         <Button
-                            x:Name="ledbtn"
-                            Text="LED BUTTON ON"
-                            BackgroundColor="Green"
+                            x:Name="connect"
+                            Text="Connect"
+                            TextTransform="Uppercase"
+                            BackgroundColor="Purple"
                             Clicked="ledbtnclicked"
 
                         ></Button>
-                        <Button Text="LED OFF" BackgroundColor="Red" HorizontalOptions="End"></Button>
                     </VerticalStackLayout>
           
 

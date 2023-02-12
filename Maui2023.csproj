@@ -65,9 +65,11 @@
 	  <None Remove="Resources\AppIcon\appicon.svg" />
 	  <None Remove="Google.Apis.Sheets.v4" />
 	  <None Remove="CommunityToolkit.Mvvm" />
+	  <None Remove="Resources\Images\161894.jpeg" />
 	</ItemGroup>
 	<ItemGroup>
 	  <BundleResource Include="Resources\AppIcon\appicon.svg" />
+	  <BundleResource Include="Resources\Images\dhnc.jpeg" />
 	</ItemGroup>
 	<ItemGroup>
 	  <MauiXaml Condition=" '$(EnableDefaultXamlItems)' == 'true' " Update="SecondPage.xaml">

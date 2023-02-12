@@ -11,7 +11,7 @@ public partial class MainPage : ContentPage
 
     private void ledbtnclicked(object sender, EventArgs e)
     {
-        if (ledbtnOnState == true)
+       /* if (ledbtnOnState == true)
         {
             ledbtn.Text = "LED OFF";
             ledbtn.BackgroundColor = Colors.OrangeRed;
@@ -27,7 +27,7 @@ public partial class MainPage : ContentPage
             ledbtnOnState = true;
          //   SemanticScreenReader.Announce(ledbtn.Text);
             Console.WriteLine(ledbtnOnState);
-        }
+        }*/
             
 
 

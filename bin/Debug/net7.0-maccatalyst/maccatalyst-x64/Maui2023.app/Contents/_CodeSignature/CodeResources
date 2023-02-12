@@ -16,6 +16,10 @@
 		<data>
 		lsoWZF+LK9gsraqCNlFFVwZPKzk=
 		</data>
+		<key>Resources/Images/dhnc.jpeg</key>
+		<data>
+		13toNOELSjfkOFqBsFgXvGgw0vg=
+		</data>
 		<key>Resources/MauiInfo.plist</key>
 		<data>
 		keAf4g1EpTxfA90nvczfcHgsYzY=
@@ -35,6 +39,10 @@
 		<key>Resources/appicon.icns</key>
 		<data>
 		NlE+cv2pBrmRiAVylV//CUlWfQQ=
+		</data>
+		<key>Resources/dhnc.jpeg</key>
+		<data>
+		13toNOELSjfkOFqBsFgXvGgw0vg=
 		</data>
 		<key>Resources/dotnet_bot.png</key>
 		<data>
@@ -97,14 +105,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7P3LewyxBrz4lZViGBxWqvBQEWWr+Jr36iFd4OyjVQI=
+			8iUiXQOjI+pnr6fuyK+jPwuzZLGt7g+Mt6o07eVQsXM=
 			</data>
 		</dict>
 		<key>MonoBundle/Maui2023.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j7uP8XsDP26mJbDruMwXXrWqz4PpRMfM4xEnpJiq1Z8=
+			WNVJ164WqcDE+uhxuiF+5yl6YZl0T/pcGl8PmyS72oI=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -1486,6 +1494,13 @@
 			FZRpGSVeSHmqsOA1x1Q3a6+4ajwVJ2v7IzG3zIMs7zQ=
 			</data>
 		</dict>
+		<key>Resources/Images/dhnc.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7lt3Z1uUlKeGaOxN8IkSQyzXU8Wq2/RirtGc24vwbls=
+			</data>
+		</dict>
 		<key>Resources/MauiInfo.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1519,6 +1534,13 @@
 			<key>hash2</key>
 			<data>
 			pI+LgCKA084wbJpU6EF/AJEuRsO3eDtZyXgJUjWYQlM=
+			</data>
+		</dict>
+		<key>Resources/dhnc.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7lt3Z1uUlKeGaOxN8IkSQyzXU8Wq2/RirtGc24vwbls=
 			</data>
 		</dict>
 		<key>Resources/dotnet_bot.png</key>
