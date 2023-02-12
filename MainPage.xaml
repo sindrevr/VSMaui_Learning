@@ -11,7 +11,7 @@
               <VerticalStackLayout Spacing="10" Padding="10">
                         <Button
                             x:Name="ledbtn"
-                            Text="LED ON"
+                            Text="LED BUTTON ON"
                             BackgroundColor="Green"
                             Clicked="ledbtnclicked"
 
