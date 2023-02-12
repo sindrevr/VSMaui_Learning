@@ -1,0 +1,5 @@
+Y:\Projects\Maui2023\Maui2023\obj\Debug\net7.0-windows10.0.19041.0\Maui2023.csproj.AssemblyReference.cache
+Y:\Projects\Maui2023\Maui2023\obj\Debug\net7.0-windows10.0.19041.0\Maui2023.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Projects\Maui2023\Maui2023\obj\Debug\net7.0-windows10.0.19041.0\Maui2023.AssemblyInfoInputs.cache
+Y:\Projects\Maui2023\Maui2023\obj\Debug\net7.0-windows10.0.19041.0\Maui2023.AssemblyInfo.cs
+Y:\Projects\Maui2023\Maui2023\obj\Debug\net7.0-windows10.0.19041.0\Maui2023.csproj.CoreCompileInputs.cache

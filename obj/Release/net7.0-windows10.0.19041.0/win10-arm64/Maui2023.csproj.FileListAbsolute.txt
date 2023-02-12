@@ -1,0 +1,5 @@
+/Users/sindrevr/Projects/Maui2023/Maui2023/obj/Release/net7.0-windows10.0.19041.0/win10-arm64/Maui2023.csproj.AssemblyReference.cache
+/Users/sindrevr/Projects/Maui2023/Maui2023/obj/Release/net7.0-windows10.0.19041.0/win10-arm64/mauiimage.inputs
+/Users/sindrevr/Projects/Maui2023/Maui2023/obj/Release/net7.0-windows10.0.19041.0/win10-arm64/mauifont.inputs
+/Users/sindrevr/Projects/Maui2023/Maui2023/obj/Release/net7.0-windows10.0.19041.0/win10-arm64/mauisplash.inputs
+/Users/sindrevr/Projects/Maui2023/Maui2023/obj/Release/net7.0-windows10.0.19041.0/win10-arm64/mauimanifest.stamp
