@@ -14,7 +14,7 @@
                   <Label Text="DHNC IP" FontSize="Subtitle"
 
                          ></Label>
-                  <Entry></Entry>
+                  <Entry Placeholder="192.168.0.1"></Entry>
                         <Button
                             x:Name="connect"
                             Text="Connect"
